@@ -28,11 +28,10 @@
 ```yaml
 Name      : Teddye
 Location  : Kenya 🇰🇪
-Role      : IT Professional & Software Developer
-Focus     : Android • Web • Data • Automation
+Role      : Infrastructure & Software Developer
+Focus     : Android/IOS • Web • Automation • Cloud Architecture • DevOps
 
 Currently : Building real-world production apps
-Learning  : Cloud Architecture, DevOps & Advanced TypeScript
 Interests : Tech, Problem Solving, Open Source
 Goal      : Craft clean, scalable, meaningful software
 ```

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a0e1a,60:0d1f3c,100:0a3060&height=220&section=header&text=TEDDYE&fontSize=90&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Infrastructure%20Engineer%20%7C%20Software%20Developer&descAlignY=62&descSize=20&descColor=a0c4e8)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a0e1a,60:0d1f3c,100:0a3060&height=220&section=header&text=TEDDYE&fontSize=90&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Infrastructure%20Engineer%20%7C%20Software%20Engineer&descAlignY=62&descSize=20&descColor=a0c4e8)
 
 <!-- Animated typing subtitle -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Android+%26+Kotlin+Developer+%F0%9F%93%B1;Python+%26+Data+Enthusiast+%F0%9F%90%8D;TypeScript+%7C+Web+%7C+Automation+%E2%9A%99%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning%2C+Always+Building+%F0%9F%8C%B1)](https://git.io/typing-svg)
